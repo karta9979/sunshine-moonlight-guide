@@ -3,7 +3,7 @@
 > 📥 懸浮豬寶按鍵：[`Moonlight按鍵.ahk`](Moonlight按鍵.ahk) ＋ [`pig.png`](pig.png)（下載後放同一個資料夾）
 
 > 2026/10/23 實作紀錄。從「挑選遠端工具」開始，一路做到安裝、配對、從外面連回家、連朋友的電腦，最後自己做了一個懸浮按鍵選單。
-![cover](images/cover.jpg)
+![cover](images/cover.png)
 
 
 > [!CAUTION]
